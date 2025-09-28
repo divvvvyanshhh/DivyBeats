@@ -1,9 +1,9 @@
-# DivyaBeats - Headphone Landing Page
+# DivyBeats - Headphone Landing Page
 
-![DivyaBeats Banner](assets/img/home.png)
+![DivyBeats Banner](assets/img/home.png)
 
 ## 🔹 Project Overview
-**DivyaBeats** is a modern, responsive headphone landing page built using **HTML, CSS, and JavaScript**. 
+**DivyBeats** is a modern, responsive headphone landing page built using **HTML, CSS, and JavaScript**. 
 The website showcases headphones with sleek design, specs, product variations, and a stylish case section, giving users a professional e-commerce-like experience.
 
 This project demonstrates:
