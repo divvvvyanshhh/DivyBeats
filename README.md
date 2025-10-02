@@ -42,6 +42,6 @@ You can view the website live is here https://divybeats-l1id.onrender.com/
 ## 🔹 Installation & Usage
 1. Clone the repository:
  ```bash
- git clone https://github.com/bhumika-ks31/DivyBeats.git
+ git clone https://github.com/divvvvyanshhh/DivyBeats.git
 
 Seen by bhumika kashyap at 6:20 PM.
