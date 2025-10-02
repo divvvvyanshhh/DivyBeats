@@ -44,4 +44,4 @@ You can view the website live is here https://divybeats-l1id.onrender.com/
  ```bash
  git clone https://github.com/divvvvyanshhh/DivyBeats.git
 
-Seen by bhumika kashyap at 6:20 PM.
+
